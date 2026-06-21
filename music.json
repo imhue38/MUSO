@@ -10,6 +10,7 @@
   { "title": "Molchat Doma - Судно", "type": "Post-punk", "lang": "RU" },
   { "title": "Kino - Gruppa Krovi", "type": "Post-punk", "lang": "RU" },
   { "title": "Ploho - Rassvet", "type": "Post-punk", "lang": "RU" },
+
   { "title": "New Order - Blue Monday", "type": "Post-punk", "lang": "EN" },
   { "title": "New Order - Ceremony", "type": "Post-punk", "lang": "EN" },
   { "title": "Bauhaus - Bela Lugosi's Dead", "type": "Post-punk", "lang": "EN" },
@@ -20,6 +21,7 @@
   { "title": "Wire - Practice Makes Perfect", "type": "Post-punk", "lang": "EN" },
   { "title": "The Fall - Hit the North", "type": "Post-punk", "lang": "EN" },
   { "title": "Echo & the Bunnymen - The Killing Moon", "type": "Post-punk", "lang": "EN" },
+
   { "title": "Ploho - Kletka", "type": "Post-punk", "lang": "RU" },
   { "title": "Ploho - Nachalo", "type": "Post-punk", "lang": "RU" },
   { "title": "Human Tetris - Things I Don't Need", "type": "Post-punk", "lang": "RU" },
@@ -27,8 +29,8 @@
   { "title": "Motorama - Wind in Her Hair", "type": "Post-punk", "lang": "RU" },
   { "title": "Motorama - Alps", "type": "Post-punk", "lang": "RU" },
   { "title": "Буерак - Шаги", "type": "Post-punk", "lang": "RU" },
-  { "title": "Буерак - Спорт", "type": "Post-punk", "lang": "RU" }
-  
+  { "title": "Буерак - Спорт", "type": "Post-punk", "lang": "RU" },
+
   { "title": "Slowdive - When the Sun Hits", "type": "Shoegaze", "lang": "EN" },
   { "title": "Slowdive - Alison", "type": "Shoegaze", "lang": "EN" },
   { "title": "My Bloody Valentine - Only Shallow", "type": "Shoegaze", "lang": "EN" },
@@ -44,7 +46,7 @@
   { "title": "Alcest - Souvenirs d'un autre monde", "type": "Shoegaze", "lang": "FR" },
   { "title": "Alcest - Écailles de lune", "type": "Shoegaze", "lang": "FR" },
   { "title": "Pale Saints - Sight of You", "type": "Shoegaze", "lang": "EN" },
-  { "title": "My Vitriol - Always: Your Way", "type": "Shoegaze", "lang": "EN" }
+  { "title": "My Vitriol - Always: Your Way", "type": "Shoegaze", "lang": "EN" },
 
   { "title": "Radiohead - Street Spirit", "type": "Emo", "lang": "EN" },
   { "title": "Radiohead - Exit Music", "type": "Emo", "lang": "EN" },
@@ -60,7 +62,7 @@
   { "title": "Dashboard Confessional - Screaming Infidelities", "type": "Emo", "lang": "EN" },
   { "title": "Evanescence - My Immortal", "type": "Emo", "lang": "EN" },
   { "title": "Linkin Park - Numb", "type": "Emo", "lang": "EN" },
-  { "title": "Linkin Park - In the End", "type": "Emo", "lang": "EN" }
+  { "title": "Linkin Park - In the End", "type": "Emo", "lang": "EN" },
 
   { "title": "Splean - Moroz Po Kozhe", "type": "Indie", "lang": "RU" },
   { "title": "Splean - Vyhod Net", "type": "Indie", "lang": "RU" },
@@ -87,8 +89,8 @@
   { "title": "Arctic Monkeys - R U Mine?", "type": "Indie", "lang": "EN" },
   { "title": "MGMT - Kids", "type": "Indie", "lang": "EN" },
   { "title": "IC3PEAK - Смерти Больше Нет", "type": "Indie", "lang": "RU" },
-  { "title": "IC3PEAK - Грустная Сука", "type": "Indie", "lang": "RU" }
-    { "title": "Arctic Monkeys - Do I Wanna Know", "type": "Indie", "lang": "EN" },
+  { "title": "IC3PEAK - Грустная Сука", "type": "Indie", "lang": "RU" },
+  { "title": "Arctic Monkeys - Do I Wanna Know", "type": "Indie", "lang": "EN" },
   { "title": "Arctic Monkeys - 505", "type": "Indie", "lang": "EN" },
   { "title": "The Strokes - Reptilia", "type": "Indie", "lang": "EN" },
   { "title": "The Strokes - Someday", "type": "Indie", "lang": "EN" },
